@@ -1,0 +1,13 @@
+*.egg-info
+__pycache__
+
+# pycharm IDE
+.idea
+
+venv
+*.xz
+data
+wandb
+
+# Vocab set up by data_processing.py
+vocab_new.txt
